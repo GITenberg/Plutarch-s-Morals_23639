@@ -1,0 +1,36 @@
+_repo: Plutarch-s-Morals_23639
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Shilleto, A. R. (Arthur Richard)
+    alias: Shilleto, Arthur Richard
+    birthdate: 1848
+    deathdate: 1894
+    gutenberg_agent_id: '25957'
+    url: http://www.gutenberg.org/2009/agents/25957
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Plutarch
+    birthdate: 46
+    deathdate: 119
+    gutenberg_agent_id: '342'
+    url: http://www.gutenberg.org/2009/agents/342
+    wikipedia: http://en.wikipedia.org/wiki/Plutarch
+description: ''
+gutenberg_issued: '2007-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23639'
+  lccn: '02012274'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ethics -- Early works to 1800'
+- !lcc 'PA'
+title: Plutarch's Morals
+url: http://www.gutenberg.org/ebooks/23639
